@@ -88,13 +88,15 @@
 
 ## 담당 페이지 및 구현 기능
 
-![part2](https://user-images.githubusercontent.com/105909665/209518834-1a1c70c8-cbb1-449a-81aa-e844c030bb2e.gif)
-![part3](https://user-images.githubusercontent.com/105909665/209518977-8e1eea1f-adb0-4acc-b284-fd733238663d.gif)
+![2차-1](https://user-images.githubusercontent.com/105909665/209523514-daeeb804-9402-4b05-910f-62a7135d3ac3.gif)
+![2차-2](https://user-images.githubusercontent.com/105909665/209523519-0568c36a-b846-4e10-8d90-2fa31ad03d7d.gif)
+![2차-3](https://user-images.githubusercontent.com/105909665/209523520-dcbd98c5-d44b-4f0c-8560-b34743bf7ce9.gif)
 
 ### 1. 이미지 생성 페이지
 - 이미지 생성 페이지를 통해서 이미지의 정보와 관련 태그 설정 가능하게 구현
 - 사용자의 정리 보드를 선택하여 이미지를 저장 가능
-- 이미지를 업로드하면 생성 페이지에서 미리보기 가능하게 구현
+- 이미지를 업로드하면 생성 페이지
+에서 미리보기 가능하게 구현
 
 ### 2. 이미지 저장 보드 관리 페이지
 - 저장할 보드를 생성/삭제 가능
